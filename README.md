@@ -45,6 +45,9 @@ I used Postgresql as per your order.
 - This help us to see visually and check our table and do changes 
 
 
+![alt text](/img/tableplus.png)
+Using this makes our work little bit easy
+
 ## Creating our server
 
 I used node.js/express.js for creating a server. Yeah, that's not easy, I get a lot of issues and tried to solve as many as I can.
@@ -63,6 +66,11 @@ npm install "name of dependencies u want to download"
 
 For checking whether the server is working or not, I used Postman API, which help us to send API requests.
 
+
+![alt text](/img/postman.png)
+Using postman API maybe little tricky but once I get it, it became too easy...
+
+
 ## Steping towards Frontend
 
 - This is a part which is length and where I face a lot of errors
@@ -75,9 +83,23 @@ I tried to make it good as way as possible but there were so many errors coming 
 
 
 ![alt text](/img/1.png)
+This is where I was using postman for fetching data using get method
 ![alt text](/img/2.png)
+Trying to implement post method for /vote
 ![alt text](/img/3.png)
+This is bar graph 
 
+There are still some errors which needed to be resolved but needed more time.
+Thank you very much for giving this assesment as it showed me how much I know about development. I still need to learn a lot of things and also looking forward to meet with you guys...
+
+# Thank you !!!
+
+
+### References
+- My udemy courses
+- Google search and many other websites
+- Documentation of every technologies
+- Some youtube videos
 
 
    [Postdoc]: <https://www.postgresql.org/docs/current/>
